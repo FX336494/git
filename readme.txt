@@ -9,3 +9,9 @@ git config --global user.email "2252599083@qq.com"
 关联远程库
 1、git remote add origin https://github.com/FX336494/gig.git
 2、git push -u origin master 
+
+
+//将本地文件推送到github 
+git add file 
+git commit -m '注释'
+git push -u origin master
