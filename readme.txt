@@ -1,4 +1,6 @@
+git config --global user.email "2252599083@qq.com"
 1、git init 
 2、git add file
 3、git commit -m 'adfas'
-4、
+4、git checkout -- file
+5、git reset HEAD file  //这个是提交到了缓存区  执行此命令会撤消 然后执行4命令撤消工作区
