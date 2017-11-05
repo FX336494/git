@@ -37,4 +37,4 @@ Git鼓励大量使用分支：
 删除分支：git branch -d <name>
 
 create a new branch f1
-createiig
+createing
