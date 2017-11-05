@@ -42,8 +42,7 @@ create a branch of dev
 我是f2分支，我做了些功能。
 
 我是dev分支
-<<<<<<< HEAD
+
 我的2号员工
-=======
 我是1号员工
->>>>>>> c676efb2c25bd5e0e8d5d1eb9a299e580e895e33
+
