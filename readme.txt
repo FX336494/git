@@ -39,4 +39,4 @@ Git鼓励大量使用分支：
 create a new branch f1
 createings
 create a branch of dev
-我的f1分支，我做了些功能。
+我是f2分支，我做了些功能。
