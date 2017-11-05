@@ -15,3 +15,8 @@ git config --global user.email "2252599083@qq.com"
 git add file 
 git commit -m '注释'
 git push -u origin master
+
+
+分支
+1、创建并切换分支
+	git checkout -b name
