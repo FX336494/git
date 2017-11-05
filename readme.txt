@@ -20,3 +20,4 @@ git push -u origin master
 分支
 1、创建并切换分支
 	git checkout -b name
+2、删除分支  git branch -d name
