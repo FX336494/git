@@ -35,3 +35,5 @@ Git鼓励大量使用分支：
 合并某分支到当前分支：git merge <name>
 
 删除分支：git branch -d <name>
+
+create a new branch f1
